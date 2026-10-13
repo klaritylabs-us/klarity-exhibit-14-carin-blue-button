@@ -1,0 +1,1 @@
+{"resourceType":"ExplanationOfBenefit","id":"e1","patient":{"reference":"Patient/p1"},"status":"active"}
